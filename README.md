@@ -1,0 +1,3 @@
+# Feedback, mainly from Felipe
+
+Regarding the presentation, it was very hard to follow, both language-wise and content-wise. There was no clear introduction to the work, but mainly a focus on the differences w.r.t. the previous presentation in March. The answers to the questions were insufficient: they were vague, unrelated and even disrespectful to the jury members. For instance, when questioned about the hyperparameter optimization problem, you deflected by explaining how K-means creates spherical clusters. Further inquiry was necessary for you to acknowledge that it was a methodological inconsistency. The responses to the other questions were largely uninformative and, at times, accompanied by inappropriate laughter.
